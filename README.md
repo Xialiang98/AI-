@@ -190,9 +190,9 @@ python main.py input.txt
 - 添加日志记录
 - 修复已知问题 
 ### 开发者联系方式：
-<img src="https://img1.lookpic.cn/2025/01/02/_20250102164849.jpeg" alt="微信截图 20250102164849" border="0">
+<img src="https://img1.lookpic.cn/2025/01/02/_20250102164434.jpg" alt="微信图片 20250102164434" border="0">
 ### 本项目须知：
 1.任何作弊手段都是可耻的，本项目只是展示一种可能性
 2.本项目采用Python进行开发，效果展示效果图为：
-![微信截图_20250102164849.png](https://img.picui.cn/free/2025/01/02/677653018d405.png)
+<img src="https://img1.lookpic.cn/2025/01/02/_20250102164849.jpeg" alt="微信截图 20250102164849" border="0">
 
